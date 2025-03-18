@@ -1,5 +1,16 @@
 # Toman-Bike-Shop
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 This project aims to provide in sights for Toman Bike Shop over the past 2 years. By analysing various aspects of the data to identify profits & revenue trends, seasonal revenue, hourly revenue analysis for informed decision making.
