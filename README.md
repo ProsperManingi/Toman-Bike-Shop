@@ -70,7 +70,7 @@ on a.yr = b.yr
 ```
 ### Results/Findings
 
-The analysis results are summarises as follows:
+The analysis results are summarised as follows:
 1. Sales revenue increased during the second year despite the increase in price.
 2. During the month of August and September is when the highest sales are recorded.
 3. Late evening hours during the 16th hour to the 19th hour is when the highest sales are made.
