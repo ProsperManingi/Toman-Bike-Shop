@@ -20,7 +20,7 @@ This project aims to provide in sights for Toman Bike Shop over the past 2 years
 ### Data Sources
 
 Sales Data: 
-- The primary datasets include- "bike_share_yr_0.csv", "bike_share_yr_1.csv" and "cost_table.csv", costaining detailed information about each sale made by the company and the associated costs
+- The primary datasets include- "bike_share_yr_0.csv", "bike_share_yr_1.csv" and "cost_table.csv", containing detailed information about each sale made by the company and the associated costs
 
 ### Tools
 
